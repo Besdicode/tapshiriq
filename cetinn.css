@@ -1,0 +1,191 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav-bar{
+    background-color: #f8f9fa;
+    width: 100%;
+    height: 11vh ;
+    padding: 3vh;
+}
+.bar{
+    background:#f8f9fa;
+    width: 80%;
+    /* height: 1vh; */
+    margin: 0 auto;
+ }
+.buttonn{
+    width: 8%;
+    height: 7vh;
+    border-radius: 1vh;
+    float: right;
+    background-color: #0d6efd;
+    color: white;
+    border: navajowhite;
+    font-size: 1rem;
+}
+.inline{
+    display: inline-block;
+}
+.size{
+    font-size: x-large;
+}
+.img{
+  width: 100%;
+  height: 80vh;
+background-image: url("https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-masthead.jpg");
+background-size: cover;
+}
+.soz{
+    color: white;
+    font-size: 3rem;
+    padding: 25vh 0 0 65vh;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.input{
+    margin: 5vh 0 0 60vh;
+    width: 35%;
+    height: 8vh;
+    border-radius: 8px;
+    border: none;
+    font-size: 1.2rem;
+}
+.button1{
+    background-color: blue;
+    width: 7%;
+    height: 8vh;
+    margin: 0 0 0 2vh;
+    border-radius: 1vh;
+    border: none;
+    color: white;
+    font-size: 1rem;
+    opacity: 0.7;
+}
+.divvv{
+    background-color: #f8f9fa;
+    width: 100%;
+    height: 60vh;
+}
+.icon{
+    padding: 20vh 0 0 30vh;
+}
+
+.icon1{
+    font-size: 12vh;
+    color: blue;
+}
+.icon2{
+    font-size: 15vh;
+    color: blue;
+    margin-left: 50vh;
+}
+.icon3{
+    font-size: 12vh;
+    color: blue;
+    margin-left: 50vh;
+}
+.div1{
+    height: 60vh;
+    width: 49%;
+    /* background-color: black; */
+    display: inline-block;
+}
+.div2{
+    height: 60vh;
+    width: 49%;
+    /* background-color: rgb(181, 25, 25); */
+    display: inline-block;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.img1{
+    width: 100%;
+    height: 60vh;
+}
+.yazi{
+   /* margin: 20vh 0 0 20vh;  */
+   padding: 20vh 15vh 0 15vh;
+}
+.yazi1{
+    font-size: 2rem;
+}
+.yazi2{
+    font-size: 20px;
+}
+.img2{
+    width: 104%;
+    height: 60vh;
+}
+.yaz{
+    padding: 3vh 10vh 0 15vh;
+}
+.yz{
+    padding: 0 0 0 1vh;
+}
+.sd{
+    margin-left: 14vh;
+}
+.img3{
+    width: 100%;
+    height: 70vh;
+}
+.divvv1{
+    background-color: black;
+    width: 100%;
+    height: 50vh;
+}
+.h1{
+    text-align: right;
+}
+.imgg{
+    border-radius: 50% 50% 50% 50%;
+    width: 100%;
+    height: 35vh;
+}
+.ad{
+ margin: 10vh 0 0 25vh;
+}
+.h2{
+    text-align: center;
+    margin: 210vh 0 0 0vh;
+    font-size: xx-large;
+}
+.imgs{
+    width: 100%;
+    height: 50vh;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-masthead.jpg);
+    background-size: cover;
+}
+.adlandirma{
+    color: white;
+    font-size: 2rem;
+    padding: 15vh 0 0 65vh;
+}
+.li{
+    margin: 10vh 0 0 25vh;
+}
+.divnew{
+    width: 100%;
+    height: 40vh;
+    /* background-color: black; */
+    color: black;
+}
+.sag{
+    margin: 2vh 0 0 25vh;
+}
+.padding{
+    padding-left: 2vh;
+}
+.icon22{
+    color: blue;
+    padding: 0 7vh 0 0;
+    font-size: 1.4rem;
+}
+.fontfm{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
